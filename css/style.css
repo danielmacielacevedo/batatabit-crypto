@@ -265,7 +265,7 @@ main
 }
 .currency-table--date
 {
-    width: 190px;
+    width: 90%;
     height: 30px;
     margin: 0 auto;
     margin-top: 15px;
@@ -283,7 +283,7 @@ main
 
 .secondary-table--date
 {
-    width: 190px;
+    width: 90%;
     height: 30px;
     margin: 0 auto;
     margin-top: 15px;
